@@ -24,7 +24,7 @@ Student Developer who strives to become a developer who goes step by step.
   <img src="https://render.gitanimals.org/farms/Jsj0per"/>
 </a>
 
-## Contect
+## Contact
 
 
 | Name   | Address                    |
@@ -35,7 +35,6 @@ Student Developer who strives to become a developer who goes step by step.
 
 ## Education History
 
-
 #### 삼성 청년 SW 아카데미 구미캠퍼스 파이썬 과정                                        2025/01 ~
 
 Samsung SW Academy For Youth Program(SSAFY) Gumi Campus Python Course
@@ -45,7 +44,6 @@ Samsung SW Academy For Youth Program(SSAFY) Gumi Campus Python Course
 MBC Academy Digital Convergence Python, Java, Spring Base Big-Data SW Developer Course
 
 #### 계명대학교 국어국문학과 학사 인문IT융합전공 복수전공                                2015/03 ~ 2022/08
-
 
 Keimyung University From Daegu, Republic Of Korea  
 Department(major) of Major in Korean Language and Literature, Faculty of Korean Language and Literature  
