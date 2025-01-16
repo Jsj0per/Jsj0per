@@ -43,7 +43,7 @@ K-Digital Traning Samsung SW Academy For Youth Program(SSAFY) Gumi Campus Python
 
 #### 엠비씨 아카데미 파이썬,자바,스프링기반 빅데이터 SW개발자 양성                        2023/04 ~ 2023/09  
 
-MBC Academy Digital Convergence Python, Java, Spring Base Big-Data SW Developer Course
+Digital Convergence MBC Academy Python, Java, Spring Base Big-Data SW Developer Course
 
 #### 계명대학교 국어국문학과 학사 인문IT융합전공 복수전공                                2015/03 ~ 2022/08  
 
