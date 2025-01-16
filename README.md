@@ -11,11 +11,12 @@ Student Developer who strives to become a developer who goes step by step.
 
 ## Ability
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsj0per)](https://github.com/anuraghazra/github-readme-stats)
 
 | Name                 | Details |
 | -------------------- | ------- |
-| programming language | Python  |
-| Tech Stacks          | -       |
+| programming language | Python, Java  |
+| Tech Stacks          | Git       |
 
 ## Contect
 
