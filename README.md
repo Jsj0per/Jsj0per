@@ -47,7 +47,7 @@ MBC Academy Digital Convergence Python, Java, Spring Base Big-Data SW Developer 
 
 #### 계명대학교 국어국문학과 학사 인문IT융합전공 복수전공                                2015/03 ~ 2022/08
 
-Keimyung University From Daegu, Republic Of Korea  
+Keimyung University Located in Daegu, Republic Of Korea  
 Department(major) of Major in Korean Language and Literature, Faculty of Korean Language and Literature  
 College of Humanities and International Studies (Double Major: Major in Humanities IT Engineering)  
 with the degree of Bachelor of Arts.  
