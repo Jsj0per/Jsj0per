@@ -37,7 +37,7 @@ Student Developer who strives to become a developer who goes step by step.
 
 ## Education History
 
-#### 삼성 청년 SW 아카데미 구미캠퍼스 파이썬 과정                                        2025/01 ~  
+#### 삼성 청년 SW 아카데미 구미캠퍼스 파이썬 과정                                        2025/01 ~ Progressing
 
 K-Digital Traning Samsung SW Academy For Youth Program(SSAFY) Gumi Campus Python Course
 
