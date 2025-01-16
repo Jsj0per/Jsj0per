@@ -30,12 +30,20 @@ Student Developer who strives to become a developer who goes step by step.
 ## Education History
 
 
-#### 삼성 청년 SW 아카데미(SSAFY)                              2025/01 ~
+#### 삼성 청년 SW 아카데미 구미캠퍼스 파이썬 과정                     2025/01 ~
 
-Samsung SW Academy For Youth Program
+Samsung SW Academy For Youth Program(SSAFY) Gumi Campus Python Course
 
-#### 계명대학교 국어국문학과 학사                              2015/03 ~ 2022/08
+#### 엠비씨 아카데미 파이썬,자바,스프링기반 빅데이터 SW개발자 양성    2023/04 ~ 2023/09
+
+MBC Academy Digital Convergence Python, Java, Spring Base Big-Data SW Developer Course
+
+#### 계명대학교 국어국문학과 학사                                     2015/03 ~ 2022/08
+#### 인문IT융합전공 복수전공  
 
 Keimyung University From Daegu, Republic Of Korea  
-Bachelor of Korean Language and Literature  
+Department(major) of Major in Korean Language and Literature, Faculty of Korean Language and Literature  
+College of Humanities and International Studies (Double Major: Major in Humanities IT Engineering)  
+with the degree of Bachelor of Arts.  
+
 (include ROK AirForce Millitary Service Period 2016/04~2018/03) 
