@@ -35,6 +35,10 @@ Student Developer who strives to become a developer who goes step by step.
 | Blog   | https://jsj0per.github.io/ |
 | E-mail | kor0peration@naver.com     |
 
+## Special Career
+
+ - 
+
 ## Education History
 
 #### 삼성 청년 SW 아카데미 구미캠퍼스 파이썬 과정                                        2025/01 ~ Progressing
