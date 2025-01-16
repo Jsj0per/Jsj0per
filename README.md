@@ -51,9 +51,7 @@ Keimyung University Located in Daegu, Republic Of Korea
 Department(major) of Major in Korean Language and Literature, Faculty of Korean Language and Literature  
 College of Humanities and International Studies (Double Major: Major in Humanities IT Engineering)  
 with the degree of Bachelor of Arts.  
+(include ROK AirForce Millitary Service Period 2016/04~2018/04)  
 
 #### 심인고등학교 졸업                                                                   2012/03 ~ 2015/02  
 Simin High School
-
-
-(include ROK AirForce Millitary Service Period 2016/04~2018/04) 
