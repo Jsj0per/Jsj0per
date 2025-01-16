@@ -29,7 +29,7 @@ Student Developer who strives to become a developer who goes step by step.
 ## Education History
 
 
-#### 삼성 청년 SW 아카데미                                    2025/01 ~
+#### 삼성 청년 SW 아카데미(SSAFY)                        2025/01 ~
 
 Samsung SW Academy For Youth Program
 
