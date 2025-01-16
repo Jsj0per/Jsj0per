@@ -37,3 +37,4 @@ Samsung SW Academy For Youth Program
 
 Keimyung University From Daegu, Republic Of Korea
 Bachelor of Korean Language and Literature
+(include ROK AirForce Millitary Service Period 2016/04~2018/03) 
