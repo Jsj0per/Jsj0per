@@ -46,4 +46,4 @@ Department(major) of Major in Korean Language and Literature, Faculty of Korean 
 College of Humanities and International Studies (Double Major: Major in Humanities IT Engineering)  
 with the degree of Bachelor of Arts.  
 
-(include ROK AirForce Millitary Service Period 2016/04~2018/03) 
+(include ROK AirForce Millitary Service Period 2016/04~2018/04) 
