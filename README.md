@@ -29,11 +29,11 @@ Student Developer who strives to become a developer who goes step by step.
 ## Education History
 
 
-#### 삼성 청년 SW 아카데미(SSAFY)                        2025/01 ~
+#### 삼성 청년 SW 아카데미(SSAFY)                              2025/01 ~
 
 Samsung SW Academy For Youth Program
 
-#### 계명대학교 국어국문학과 학사                        2015/03 ~ 2022/08
+#### 계명대학교 국어국문학과 학사                              2015/03 ~ 2022/08
 
 Keimyung University From Daegu, Republic Of Korea
 Bachelor of Korean Language and Literature  
