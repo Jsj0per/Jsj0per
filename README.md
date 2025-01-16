@@ -15,8 +15,8 @@ Student Developer who strives to become a developer who goes step by step.
 
 | Name                 | Details |
 | -------------------- | ------- |
-| programming language | Python, Java  |
-| Tech Stacks          | Git       |
+| programming language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-E11F21?style=for-the-badge&logo=OpenJDK&logoColor=white">  |
+| Tech Stacks          | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">      |
 
 ## Contect
 
