@@ -9,14 +9,15 @@
 Student Developer who strives to become a developer who goes step by step.  
 一歩一歩進んで精進する開発者になるために努力する学生開発者です。
 
-## Ability
+## Ability(Tech Stacks)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsj0per)](https://github.com/anuraghazra/github-readme-stats)
 
 | Name                 | Details |
 | -------------------- | ------- |
-| programming language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-E11F21?style=for-the-badge&logo=OpenJDK&logoColor=white">  |
+| language             | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-E11F21?style=for-the-badge&logo=OpenJDK&logoColor=white">  |
 | Frameworks           | <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">      |
+| DataBase             | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">      |
 | ETC                  | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">     |
 
 ## Git Animals
