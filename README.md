@@ -54,4 +54,4 @@ with the degree of Bachelor of Arts.
 (include ROK AirForce Millitary Service Period 2016/04~2018/04)  
 
 #### 심인고등학교 졸업                                                                   2012/03 ~ 2015/02  
-Simin High School Liberal Arts Diploma
+Simin High School Liberal Arts Track Diploma
