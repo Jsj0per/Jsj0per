@@ -39,7 +39,7 @@ Student Developer who strives to become a developer who goes step by step.
 
 #### SSAFYcial 13기 구미 캠퍼스 기자단 2025/02 ~ Progressing
 
-SSAFY press corps "SSAFYcial" - 13th Gumi Campus Member  
+SSAFY Campus Press Corps (Gumi) "SSAFYcial" 13th
 
 ## Education History
 
