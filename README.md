@@ -40,6 +40,8 @@ Student Developer who strives to become a developer who goes step by step.
 
 #### SSAFYcial 13기 구미 캠퍼스 기자단 2025/02 ~ Progressing
 
+![SSAFYcial_namecard](https://jsj0per.github.io/pages/SSAFYcial/SSAFYcial_namecard.png)
+
 SSAFY Campus Press Corps "SSAFYcial" (Gumi), 13th Period Press Member
 
 ## Education History
