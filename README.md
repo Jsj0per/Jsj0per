@@ -38,7 +38,7 @@ Student Developer who strives to become a developer who goes step by step.
 
 ## Special Career
 
-<img src="https://1drv.ms/i/c/0475b30c6541160c/UQQMFkFlDLN1IIAEcwAAAAAAAAcoy5d_P3wAyAk?width=490&height=900" width="490" height="900" />
+![SSAFYcial_namecard](https://jsj0per.github.io/pages/SSAFYcial/SSAFYcial_namecard.png)
 
 #### SSAFYcial 13기 구미 캠퍼스 기자단 2025/02 ~ Progressing
 
