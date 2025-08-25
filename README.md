@@ -37,7 +37,12 @@ Student Developer who strives to become a developer who goes step by step.
 | Blog   | https://jsj0per.github.io/ |
 | E-mail | kor0peration@naver.com     |
 
-## Special Career
+## Portfolio
+ * [MOYOUNG](https://jsj0per.github.io/p2_sample2.html)  
+ 실시간 화상회의에서 사용자 별 음성을 Whisper를 이용해 실시간으로 전사하고, 자막을 제공하는 화상 회의 플랫폼입니다.  
+ It is a video conference platform that transmits user-specific voices in real-time using Whisper and provides subtitles in real-time in real-time video conferencing.  
+
+## Career
 
 ![SSAFYcial_namecard](https://jsj0per.github.io/pages/SSAFYcial/SSAFYcial_namecard.png)
 
