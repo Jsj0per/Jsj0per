@@ -59,7 +59,7 @@ Student Developer who strives to become a developer who goes step by step.
 
 SSAFY Campus Press Corps "SSAFYcial" (Gumi), 13th Period Press Member
 
-#### キャル株式会社(칼 주식회사) 2026/04 ~ In office
+#### キャル株式会社(칼 주식회사) SWエンジニア 2026/04 ~ In office
 
 CAL Corporation SW Engineer
 
