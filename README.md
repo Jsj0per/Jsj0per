@@ -1,4 +1,4 @@
-# 정 승재 Student Developer
+# 정 승재 Junior Developer
 
 ### SungJae Jung, 鄭 承宰(ジョン, スンゼ)
 
